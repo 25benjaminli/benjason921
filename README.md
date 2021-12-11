@@ -1,5 +1,8 @@
 Hi.
 
-**I'm Ben. **
+I'm Ben. 
 
-**Really, nothing much else to say.**
+I like coding. 
+
+Currently on the robotics team & 
+learning web dev
