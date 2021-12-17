@@ -2,7 +2,7 @@ Hi.
 
 I'm Ben. 
 
-Aspiring full stack developer. 
+Aspiring software developer. 
 
 Currently on MHS robotics team,
 learning web dev, prepping for USACO
